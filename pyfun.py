@@ -1,0 +1,5 @@
+print("print hellow python")
+name = input("input any text")
+character = len(name)
+print(character)
+a = name.replace (" ","")
